@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meses", "..\Meses\Meses.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letras", "..\Letras\Letras.csproj", "{8BE966EB-018E-4057-B69C-C1C2FBCEDDDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "..\Menu\Menu.csproj", "{B4ADD981-FB89-43EB-8833-F239F91B29FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8BE966EB-018E-4057-B69C-C1C2FBCEDDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE966EB-018E-4057-B69C-C1C2FBCEDDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE966EB-018E-4057-B69C-C1C2FBCEDDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4ADD981-FB89-43EB-8833-F239F91B29FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ADD981-FB89-43EB-8833-F239F91B29FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ADD981-FB89-43EB-8833-F239F91B29FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ADD981-FB89-43EB-8833-F239F91B29FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
